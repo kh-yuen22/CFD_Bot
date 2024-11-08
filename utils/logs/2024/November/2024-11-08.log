@@ -1,0 +1,1114 @@
+[2024-11-08 00:24:49.34] INFO: User list updated.
+[2024-11-08 00:54:48.91] INFO: User list updated.
+[2024-11-08 01:24:50.07] INFO: User list updated.
+[2024-11-08 01:54:49.06] INFO: User list updated.
+[2024-11-08 02:08:07.54] INFO: Member #15803 SELL EURGBP.std OPEN @ 0.0010 >= 0.0010 && 0.0014 >= 0.0000
+[2024-11-08 02:08:07.54] INFO: Placing order open for Login ID: 369075284, Symbol: EURGBP.std, Volume: 4
+[2024-11-08 02:08:08.99] INFO: Order opened successfully. Order ID: 14431211
+[2024-11-08 02:08:10.26] INFO: SELL IN SEQ 2 @ 0.1041
+[2024-11-08 02:08:10.26] INFO: EURGBP.std: [Price: 0.83137 Qty: 0.04 Cost: 4000]
+[2024-11-08 02:08:10.35] INFO: Member #15803 OPEN EURGBP.std Ref #10139198
+[2024-11-08 02:08:10.43] INFO: Trade Data for Login 369075284
+[2024-11-08 02:08:10.43] INFO: XAUUSD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "XAUUSD.std",
+  "TCycleId": "10139298",
+  "TConfigId": "10004788",
+  "DateEntry": "2024-11-07T21:33:00.683Z",
+  "DateClose": null,
+  "BuyEntryPrice": 2679.04,
+  "BuyAvgPrice": 2679.04,
+  "BuyQuantity": 0.01,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "S"
+}
+[2024-11-08 02:08:11.69] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14426115,
+      "OpenPrice": 2679.04,
+      "Volume": 1,
+      "Profit": -19.51,
+      "Comment": "DCA #3676JRI8 IN"
+    }
+  ]
+}
+[2024-11-08 02:08:11.69] INFO: EURGBP.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "EURGBP.std",
+  "TCycleId": "10139198",
+  "TConfigId": "10005088",
+  "DateEntry": "2024-11-07T21:06:59.413Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.83125,
+  "BuyAvgPrice": 0.83147851,
+  "BuyQuantity": 0.07,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "S"
+}
+[2024-11-08 02:08:12.94] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14425548,
+      "OpenPrice": 0.83125,
+      "Volume": 1,
+      "Profit": -0.63,
+      "Comment": "DCA #6540VJ1V IN"
+    },
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14425581,
+      "OpenPrice": 0.83181,
+      "Volume": 2,
+      "Profit": 0.18,
+      "Comment": "DCA #6540VJ1V CD 1"
+    },
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14431211,
+      "OpenPrice": 0.83137,
+      "Volume": 4,
+      "Profit": -1.93,
+      "Comment": "DCA #6540VJ1V CD 2"
+    }
+  ]
+}
+[2024-11-08 02:08:12.94] INFO: New trade performed.
+[2024-11-08 02:24:48.80] INFO: User list updated.
+[2024-11-08 02:54:48.89] INFO: User list updated.
+[2024-11-08 03:24:50.30] INFO: User list updated.
+[2024-11-08 03:30:05.47] INFO: Trade Income Updated into DB successfully.
+[2024-11-08 03:30:05.47] INFO: Updated swap fee for Order ID: 14425548 with value: 0.03
+[2024-11-08 03:30:05.54] INFO: Trade Income Updated into DB successfully.
+[2024-11-08 03:30:05.55] INFO: Updated swap fee for Order ID: 14425581 with value: 0.05
+[2024-11-08 03:30:05.62] INFO: Trade Income Updated into DB successfully.
+[2024-11-08 03:30:05.62] INFO: Updated swap fee for Order ID: 14426115 with value: 0.22
+[2024-11-08 03:30:06.95] INFO: Trade Income Updated into DB successfully.
+[2024-11-08 03:30:06.95] INFO: Updated swap fee for Order ID: 14425548 with value: 0.03
+[2024-11-08 03:30:07.02] INFO: Trade Income Updated into DB successfully.
+[2024-11-08 03:30:07.03] INFO: Updated swap fee for Order ID: 14425581 with value: 0.05
+[2024-11-08 03:30:07.11] INFO: Trade Income Updated into DB successfully.
+[2024-11-08 03:30:07.11] INFO: Updated swap fee for Order ID: 14426115 with value: 0.22
+[2024-11-08 03:30:07.11] INFO: All swap fees updated successfully.
+[2024-11-08 03:34:29.40] INFO: Member #15803 BUY AUDUSD.std OPEN @ 0.665085
+[2024-11-08 03:34:29.40] INFO: Placing order open for Login ID: 369075284, Symbol: AUDUSD.std, Volume: 2
+[2024-11-08 03:34:30.86] INFO: Order opened successfully. Order ID: 14431707
+[2024-11-08 03:34:32.85] INFO: BUY OPEN ENTRY
+[2024-11-08 03:34:32.85] INFO: AUDUSD.std: [Price: 0.665085 Qty: 0.02 Cost: 2000]
+[2024-11-08 03:34:32.94] INFO: Member #15803 OPEN AUDUSD.std Ref #10140298
+[2024-11-08 03:34:33.02] INFO: Trade Data for Login 369075284
+[2024-11-08 03:34:33.02] INFO: XAUUSD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "XAUUSD.std",
+  "TCycleId": "10139298",
+  "TConfigId": "10004788",
+  "DateEntry": "2024-11-07T21:33:00.683Z",
+  "DateClose": null,
+  "BuyEntryPrice": 2679.04,
+  "BuyAvgPrice": 2679.04,
+  "BuyQuantity": 0.01,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "S"
+}
+[2024-11-08 03:34:34.23] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14426115,
+      "OpenPrice": 2679.04,
+      "Volume": 1,
+      "Profit": -16.3,
+      "Comment": "DCA #3676JRI8 IN"
+    }
+  ]
+}
+[2024-11-08 03:34:34.23] INFO: AUDUSD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "AUDUSD.std",
+  "TCycleId": "10140298",
+  "TConfigId": "10004888",
+  "DateEntry": "2024-11-08T11:34:32.087Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.665085,
+  "BuyAvgPrice": 0.665085,
+  "BuyQuantity": 0.02,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "B"
+}
+[2024-11-08 03:34:35.44] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "AUDUSD.std",
+      "OrderId": 14431707,
+      "OpenPrice": 0.665085,
+      "Volume": 2,
+      "Profit": -0.65,
+      "Comment": "DCA #3AZ08R18 IN"
+    }
+  ]
+}
+[2024-11-08 03:34:35.45] INFO: EURGBP.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "EURGBP.std",
+  "TCycleId": "10139198",
+  "TConfigId": "10005088",
+  "DateEntry": "2024-11-07T21:06:59.413Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.83125,
+  "BuyAvgPrice": 0.83147851,
+  "BuyQuantity": 0.07,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "S"
+}
+[2024-11-08 03:34:36.69] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14425548,
+      "OpenPrice": 0.83125,
+      "Volume": 1,
+      "Profit": -0.48,
+      "Comment": "DCA #6540VJ1V IN"
+    },
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14425581,
+      "OpenPrice": 0.83181,
+      "Volume": 2,
+      "Profit": 0.49,
+      "Comment": "DCA #6540VJ1V CD 1"
+    },
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14431211,
+      "OpenPrice": 0.83137,
+      "Volume": 4,
+      "Profit": -1.3,
+      "Comment": "DCA #6540VJ1V CD 2"
+    }
+  ]
+}
+[2024-11-08 03:34:36.69] INFO: New trade performed.
+[2024-11-08 03:36:52.49] INFO: Member #15803 SELL XAUUSD.std OPEN @ 0.0115 >= 0.0005 && 0.0058 >= 0.0000
+[2024-11-08 03:36:52.49] INFO: Placing order open for Login ID: 369075284, Symbol: XAUUSD.std, Volume: 2
+[2024-11-08 03:36:53.93] INFO: Order opened successfully. Order ID: 14431717
+[2024-11-08 03:36:55.17] INFO: SELL IN SEQ 1 @ 1.1516
+[2024-11-08 03:36:55.17] INFO: XAUUSD.std: [Price: 2694.85 Qty: 0.02 Cost: 2000]
+[2024-11-08 03:36:55.26] INFO: Member #15803 OPEN XAUUSD.std Ref #10139298
+[2024-11-08 03:36:55.36] INFO: Trade Data for Login 369075284
+[2024-11-08 03:36:55.36] INFO: XAUUSD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "XAUUSD.std",
+  "TCycleId": "10139298",
+  "TConfigId": "10004788",
+  "DateEntry": "2024-11-07T21:33:00.683Z",
+  "DateClose": null,
+  "BuyEntryPrice": 2679.04,
+  "BuyAvgPrice": 2689.5593072300003,
+  "BuyQuantity": 0.03,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "S"
+}
+[2024-11-08 03:36:57.14] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14426115,
+      "OpenPrice": 2679.04,
+      "Volume": 1,
+      "Profit": -16.52,
+      "Comment": "DCA #3676JRI8 IN"
+    },
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14431717,
+      "OpenPrice": 2694.85,
+      "Volume": 2,
+      "Profit": -1.42,
+      "Comment": "DCA #3676JRI8 CD 1"
+    }
+  ]
+}
+[2024-11-08 03:36:57.14] INFO: AUDUSD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "AUDUSD.std",
+  "TCycleId": "10140298",
+  "TConfigId": "10004888",
+  "DateEntry": "2024-11-08T11:34:32.087Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.665085,
+  "BuyAvgPrice": 0.665085,
+  "BuyQuantity": 0.02,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "B"
+}
+[2024-11-08 03:36:58.38] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "AUDUSD.std",
+      "OrderId": 14431707,
+      "OpenPrice": 0.665085,
+      "Volume": 2,
+      "Profit": -1.29,
+      "Comment": "DCA #3AZ08R18 IN"
+    }
+  ]
+}
+[2024-11-08 03:36:58.39] INFO: EURGBP.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "EURGBP.std",
+  "TCycleId": "10139198",
+  "TConfigId": "10005088",
+  "DateEntry": "2024-11-07T21:06:59.413Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.83125,
+  "BuyAvgPrice": 0.83147851,
+  "BuyQuantity": 0.07,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "S"
+}
+[2024-11-08 03:36:59.61] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14425548,
+      "OpenPrice": 0.83125,
+      "Volume": 1,
+      "Profit": -0.52,
+      "Comment": "DCA #6540VJ1V IN"
+    },
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14425581,
+      "OpenPrice": 0.83181,
+      "Volume": 2,
+      "Profit": 0.42,
+      "Comment": "DCA #6540VJ1V CD 1"
+    },
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14431211,
+      "OpenPrice": 0.83137,
+      "Volume": 4,
+      "Profit": -1.45,
+      "Comment": "DCA #6540VJ1V CD 2"
+    }
+  ]
+}
+[2024-11-08 03:36:59.62] INFO: New trade performed.
+[2024-11-08 03:37:00.22] INFO: Member #15803 SELL XAUUSD.std OPEN @ 0.0021 >= 0.0010 && 0.0001 >= 0.0000
+[2024-11-08 03:37:00.22] INFO: Placing order open for Login ID: 369075284, Symbol: XAUUSD.std, Volume: 4
+[2024-11-08 03:37:01.45] INFO: Order opened successfully. Order ID: 14431719
+[2024-11-08 03:37:03.08] INFO: SELL IN SEQ 2 @ 0.2108
+[2024-11-08 03:37:03.08] INFO: XAUUSD.std: [Price: 2695.24 Qty: 0.04 Cost: 4000]
+[2024-11-08 03:37:03.18] INFO: Member #15803 OPEN XAUUSD.std Ref #10139298
+[2024-11-08 03:37:03.26] INFO: Trade Data for Login 369075284
+[2024-11-08 03:37:03.26] INFO: XAUUSD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "XAUUSD.std",
+  "TCycleId": "10139298",
+  "TConfigId": "10004788",
+  "DateEntry": "2024-11-07T21:33:00.683Z",
+  "DateClose": null,
+  "BuyEntryPrice": 2679.04,
+  "BuyAvgPrice": 2692.80248167,
+  "BuyQuantity": 0.07,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "S"
+}
+[2024-11-08 03:37:04.49] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14426115,
+      "OpenPrice": 2679.04,
+      "Volume": 1,
+      "Profit": -16.65,
+      "Comment": "DCA #3676JRI8 IN"
+    },
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14431717,
+      "OpenPrice": 2694.85,
+      "Volume": 2,
+      "Profit": -1.68,
+      "Comment": "DCA #3676JRI8 CD 1"
+    },
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14431719,
+      "OpenPrice": 2695.24,
+      "Volume": 4,
+      "Profit": -1.8,
+      "Comment": "DCA #3676JRI8 CD 2"
+    }
+  ]
+}
+[2024-11-08 03:37:04.50] INFO: AUDUSD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "AUDUSD.std",
+  "TCycleId": "10140298",
+  "TConfigId": "10004888",
+  "DateEntry": "2024-11-08T11:34:32.087Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.665085,
+  "BuyAvgPrice": 0.665085,
+  "BuyQuantity": 0.02,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "B"
+}
+[2024-11-08 03:37:05.71] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "AUDUSD.std",
+      "OrderId": 14431707,
+      "OpenPrice": 0.665085,
+      "Volume": 2,
+      "Profit": -1.07,
+      "Comment": "DCA #3AZ08R18 IN"
+    }
+  ]
+}
+[2024-11-08 03:37:05.71] INFO: EURGBP.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "EURGBP.std",
+  "TCycleId": "10139198",
+  "TConfigId": "10005088",
+  "DateEntry": "2024-11-07T21:06:59.413Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.83125,
+  "BuyAvgPrice": 0.83147851,
+  "BuyQuantity": 0.07,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "S"
+}
+[2024-11-08 03:37:06.97] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14425548,
+      "OpenPrice": 0.83125,
+      "Volume": 1,
+      "Profit": -0.53,
+      "Comment": "DCA #6540VJ1V IN"
+    },
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14425581,
+      "OpenPrice": 0.83181,
+      "Volume": 2,
+      "Profit": 0.39,
+      "Comment": "DCA #6540VJ1V CD 1"
+    },
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14431211,
+      "OpenPrice": 0.83137,
+      "Volume": 4,
+      "Profit": -1.51,
+      "Comment": "DCA #6540VJ1V CD 2"
+    }
+  ]
+}
+[2024-11-08 03:37:06.97] INFO: New trade performed.
+[2024-11-08 03:37:13.27] INFO: Member #15803 BUY AUDCAD.std OPEN @ 0.923015
+[2024-11-08 03:37:13.27] INFO: Placing order open for Login ID: 369075284, Symbol: AUDCAD.std, Volume: 1
+[2024-11-08 03:37:14.47] INFO: Order opened successfully. Order ID: 14431721
+[2024-11-08 03:37:15.78] INFO: BUY OPEN ENTRY
+[2024-11-08 03:37:15.78] INFO: AUDCAD.std: [Price: 0.92301 Qty: 0.01 Cost: 1000]
+[2024-11-08 03:37:15.93] INFO: Member #15803 OPEN AUDCAD.std Ref #10140398
+[2024-11-08 03:37:16.02] INFO: Trade Data for Login 369075284
+[2024-11-08 03:37:16.02] INFO: XAUUSD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "XAUUSD.std",
+  "TCycleId": "10139298",
+  "TConfigId": "10004788",
+  "DateEntry": "2024-11-07T21:33:00.683Z",
+  "DateClose": null,
+  "BuyEntryPrice": 2679.04,
+  "BuyAvgPrice": 2692.80248167,
+  "BuyQuantity": 0.07,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "S"
+}
+[2024-11-08 03:37:17.67] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14426115,
+      "OpenPrice": 2679.04,
+      "Volume": 1,
+      "Profit": -16.26,
+      "Comment": "DCA #3676JRI8 IN"
+    },
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14431717,
+      "OpenPrice": 2694.85,
+      "Volume": 2,
+      "Profit": -0.9,
+      "Comment": "DCA #3676JRI8 CD 1"
+    },
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14431719,
+      "OpenPrice": 2695.24,
+      "Volume": 4,
+      "Profit": -0.24,
+      "Comment": "DCA #3676JRI8 CD 2"
+    }
+  ]
+}
+[2024-11-08 03:37:17.68] INFO: AUDUSD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "AUDUSD.std",
+  "TCycleId": "10140298",
+  "TConfigId": "10004888",
+  "DateEntry": "2024-11-08T11:34:32.087Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.665085,
+  "BuyAvgPrice": 0.665085,
+  "BuyQuantity": 0.02,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "B"
+}
+[2024-11-08 03:37:19.45] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "AUDUSD.std",
+      "OrderId": 14431707,
+      "OpenPrice": 0.665085,
+      "Volume": 2,
+      "Profit": -1.17,
+      "Comment": "DCA #3AZ08R18 IN"
+    }
+  ]
+}
+[2024-11-08 03:37:19.45] INFO: AUDCAD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "AUDCAD.std",
+  "TCycleId": "10140398",
+  "TConfigId": "10004688",
+  "DateEntry": "2024-11-08T11:37:15.000Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.92301,
+  "BuyAvgPrice": 0.92301,
+  "BuyQuantity": 0.01,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "B"
+}
+[2024-11-08 03:37:20.65] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "AUDCAD.std",
+      "OrderId": 14431721,
+      "OpenPrice": 0.92301,
+      "Volume": 1,
+      "Profit": -0.34,
+      "Comment": "DCA #J5IU0617 IN"
+    }
+  ]
+}
+[2024-11-08 03:37:20.65] INFO: EURGBP.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "EURGBP.std",
+  "TCycleId": "10139198",
+  "TConfigId": "10005088",
+  "DateEntry": "2024-11-07T21:06:59.413Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.83125,
+  "BuyAvgPrice": 0.83147851,
+  "BuyQuantity": 0.07,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "S"
+}
+[2024-11-08 03:37:21.90] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14425548,
+      "OpenPrice": 0.83125,
+      "Volume": 1,
+      "Profit": -0.53,
+      "Comment": "DCA #6540VJ1V IN"
+    },
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14425581,
+      "OpenPrice": 0.83181,
+      "Volume": 2,
+      "Profit": 0.39,
+      "Comment": "DCA #6540VJ1V CD 1"
+    },
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14431211,
+      "OpenPrice": 0.83137,
+      "Volume": 4,
+      "Profit": -1.51,
+      "Comment": "DCA #6540VJ1V CD 2"
+    }
+  ]
+}
+[2024-11-08 03:37:21.90] INFO: New trade performed.
+[2024-11-08 03:54:20.24] INFO: Shutting Down: Closing database connection...
+[2024-11-08 03:54:20.24] INFO: Waiting for 1 ongoing operations to complete...
+[2024-11-08 03:54:20.74] INFO: All database operations completed.
+[2024-11-08 03:54:20.74] INFO: Database connection closed.
+[2024-11-08 03:54:22.65] INFO: Database connection established.
+[2024-11-08 03:54:24.35] INFO: All Symbol Pairs loaded.
+[2024-11-08 03:54:25.27] INFO: Trade Data for Login 369075284
+[2024-11-08 03:54:25.27] INFO: XAUUSD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "XAUUSD.std",
+  "TCycleId": "10139298",
+  "TConfigId": "10004788",
+  "DateEntry": "2024-11-07T21:33:00.683Z",
+  "DateClose": null,
+  "BuyEntryPrice": 2679.04,
+  "BuyAvgPrice": 2692.80248167,
+  "BuyQuantity": 0.07,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "S"
+}
+[2024-11-08 03:54:25.30] INFO: SignalR client connected.
+[2024-11-08 03:54:26.86] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14426115,
+      "OpenPrice": 2679.04,
+      "Volume": 1,
+      "Profit": -16.04,
+      "Comment": "DCA #3676JRI8 IN"
+    },
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14431717,
+      "OpenPrice": 2694.85,
+      "Volume": 2,
+      "Profit": -0.46,
+      "Comment": "DCA #3676JRI8 CD 1"
+    },
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14431719,
+      "OpenPrice": 2695.24,
+      "Volume": 4,
+      "Profit": 0.64,
+      "Comment": "DCA #3676JRI8 CD 2"
+    }
+  ]
+}
+[2024-11-08 03:54:26.87] INFO: AUDUSD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "AUDUSD.std",
+  "TCycleId": "10140298",
+  "TConfigId": "10004888",
+  "DateEntry": "2024-11-08T11:34:32.087Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.665085,
+  "BuyAvgPrice": 0.665085,
+  "BuyQuantity": 0.02,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "B"
+}
+[2024-11-08 03:54:27.92] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "AUDUSD.std",
+      "OrderId": 14431707,
+      "OpenPrice": 0.665085,
+      "Volume": 2,
+      "Profit": -0.71,
+      "Comment": "DCA #3AZ08R18 IN"
+    }
+  ]
+}
+[2024-11-08 03:54:27.93] INFO: AUDCAD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "AUDCAD.std",
+  "TCycleId": "10140398",
+  "TConfigId": "10004688",
+  "DateEntry": "2024-11-08T11:37:15.000Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.92301,
+  "BuyAvgPrice": 0.92301,
+  "BuyQuantity": 0.01,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "B"
+}
+[2024-11-08 03:54:29.17] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "AUDCAD.std",
+      "OrderId": 14431721,
+      "OpenPrice": 0.92301,
+      "Volume": 1,
+      "Profit": -0.11,
+      "Comment": "DCA #J5IU0617 IN"
+    }
+  ]
+}
+[2024-11-08 03:54:29.17] INFO: EURGBP.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "EURGBP.std",
+  "TCycleId": "10139198",
+  "TConfigId": "10005088",
+  "DateEntry": "2024-11-07T21:06:59.413Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.83125,
+  "BuyAvgPrice": 0.83147851,
+  "BuyQuantity": 0.07,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "S"
+}
+[2024-11-08 03:54:30.38] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14425548,
+      "OpenPrice": 0.83125,
+      "Volume": 1,
+      "Profit": -0.46,
+      "Comment": "DCA #6540VJ1V IN"
+    },
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14425581,
+      "OpenPrice": 0.83181,
+      "Volume": 2,
+      "Profit": 0.55,
+      "Comment": "DCA #6540VJ1V CD 1"
+    },
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14431211,
+      "OpenPrice": 0.83137,
+      "Volume": 4,
+      "Profit": -1.19,
+      "Comment": "DCA #6540VJ1V CD 2"
+    }
+  ]
+}
+[2024-11-08 04:01:34.71] WARN: No User Account data found for the specified users.
+[2024-11-08 04:11:01.00] INFO: Shutting Down: Closing database connection...
+[2024-11-08 04:11:01.01] INFO: Waiting for 4 ongoing operations to complete...
+[2024-11-08 04:11:01.51] INFO: All database operations completed.
+[2024-11-08 04:11:01.52] INFO: Database connection closed.
+[2024-11-08 04:11:03.48] INFO: Database connection established.
+[2024-11-08 04:11:05.18] INFO: All Symbol Pairs loaded.
+[2024-11-08 04:11:06.13] INFO: SignalR client connected.
+[2024-11-08 04:11:06.25] INFO: Trade Data for Login 369075284
+[2024-11-08 04:11:06.26] INFO: XAUUSD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "XAUUSD.std",
+  "TCycleId": "10139298",
+  "TConfigId": "10004788",
+  "DateEntry": "2024-11-07T21:33:00.683Z",
+  "DateClose": null,
+  "BuyEntryPrice": 2679.04,
+  "BuyAvgPrice": 2692.80248167,
+  "BuyQuantity": 0.07,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "S"
+}
+[2024-11-08 04:11:07.32] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14426115,
+      "OpenPrice": 2679.04,
+      "Volume": 1,
+      "Profit": -15.6,
+      "Comment": "DCA #3676JRI8 IN"
+    },
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14431717,
+      "OpenPrice": 2694.85,
+      "Volume": 2,
+      "Profit": 0.42,
+      "Comment": "DCA #3676JRI8 CD 1"
+    },
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14431719,
+      "OpenPrice": 2695.24,
+      "Volume": 4,
+      "Profit": 2.4,
+      "Comment": "DCA #3676JRI8 CD 2"
+    }
+  ]
+}
+[2024-11-08 04:11:07.33] INFO: AUDUSD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "AUDUSD.std",
+  "TCycleId": "10140298",
+  "TConfigId": "10004888",
+  "DateEntry": "2024-11-08T11:34:32.087Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.665085,
+  "BuyAvgPrice": 0.665085,
+  "BuyQuantity": 0.02,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "B"
+}
+[2024-11-08 04:11:08.40] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "AUDUSD.std",
+      "OrderId": 14431707,
+      "OpenPrice": 0.665085,
+      "Volume": 2,
+      "Profit": -1.11,
+      "Comment": "DCA #3AZ08R18 IN"
+    }
+  ]
+}
+[2024-11-08 04:11:08.40] INFO: AUDCAD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "AUDCAD.std",
+  "TCycleId": "10140398",
+  "TConfigId": "10004688",
+  "DateEntry": "2024-11-08T11:37:15.000Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.92301,
+  "BuyAvgPrice": 0.92301,
+  "BuyQuantity": 0.01,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "B"
+}
+[2024-11-08 04:11:10.12] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "AUDCAD.std",
+      "OrderId": 14431721,
+      "OpenPrice": 0.92301,
+      "Volume": 1,
+      "Profit": -0.29,
+      "Comment": "DCA #J5IU0617 IN"
+    }
+  ]
+}
+[2024-11-08 04:11:10.12] INFO: EURGBP.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "EURGBP.std",
+  "TCycleId": "10139198",
+  "TConfigId": "10005088",
+  "DateEntry": "2024-11-07T21:06:59.413Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.83125,
+  "BuyAvgPrice": 0.83147851,
+  "BuyQuantity": 0.07,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "S"
+}
+[2024-11-08 04:11:11.83] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14425548,
+      "OpenPrice": 0.83125,
+      "Volume": 1,
+      "Profit": -0.53,
+      "Comment": "DCA #6540VJ1V IN"
+    },
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14425581,
+      "OpenPrice": 0.83181,
+      "Volume": 2,
+      "Profit": 0.39,
+      "Comment": "DCA #6540VJ1V CD 1"
+    },
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14431211,
+      "OpenPrice": 0.83137,
+      "Volume": 4,
+      "Profit": -1.51,
+      "Comment": "DCA #6540VJ1V CD 2"
+    }
+  ]
+}
+[2024-11-08 04:20:31.46] INFO: Shutting Down: Closing database connection...
+[2024-11-08 04:20:31.46] INFO: Waiting for 8 ongoing operations to complete...
+[2024-11-08 04:20:31.97] INFO: All database operations completed.
+[2024-11-08 04:20:31.97] INFO: Database connection closed.
+[2024-11-08 04:23:56.94] INFO: Database connection established.
+[2024-11-08 04:23:59.97] INFO: All Symbol Pairs loaded.
+[2024-11-08 04:24:00.97] INFO: SignalR client connected.
+[2024-11-08 04:24:01.22] INFO: Trade Data for Login 369075284
+[2024-11-08 04:24:01.23] INFO: XAUUSD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "XAUUSD.std",
+  "TCycleId": "10139298",
+  "TConfigId": "10004788",
+  "DateEntry": "2024-11-07T21:33:00.683Z",
+  "DateClose": null,
+  "BuyEntryPrice": 2679.04,
+  "BuyAvgPrice": 2692.80248167,
+  "BuyQuantity": 0.07,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "S"
+}
+[2024-11-08 04:24:02.31] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14426115,
+      "OpenPrice": 2679.04,
+      "Volume": 1,
+      "Profit": -15.22,
+      "Comment": "DCA #3676JRI8 IN"
+    },
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14431717,
+      "OpenPrice": 2694.85,
+      "Volume": 2,
+      "Profit": 1.18,
+      "Comment": "DCA #3676JRI8 CD 1"
+    },
+    {
+      "Symbol": "XAUUSD.std",
+      "OrderId": 14431719,
+      "OpenPrice": 2695.24,
+      "Volume": 4,
+      "Profit": 3.92,
+      "Comment": "DCA #3676JRI8 CD 2"
+    }
+  ]
+}
+[2024-11-08 04:24:02.31] INFO: AUDUSD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "AUDUSD.std",
+  "TCycleId": "10140298",
+  "TConfigId": "10004888",
+  "DateEntry": "2024-11-08T11:34:32.087Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.665085,
+  "BuyAvgPrice": 0.665085,
+  "BuyQuantity": 0.02,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "B"
+}
+[2024-11-08 04:24:03.56] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "AUDUSD.std",
+      "OrderId": 14431707,
+      "OpenPrice": 0.665085,
+      "Volume": 2,
+      "Profit": -0.13,
+      "Comment": "DCA #3AZ08R18 IN"
+    }
+  ]
+}
+[2024-11-08 04:24:03.57] INFO: AUDCAD.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "AUDCAD.std",
+  "TCycleId": "10140398",
+  "TConfigId": "10004688",
+  "DateEntry": "2024-11-08T11:37:15.000Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.92301,
+  "BuyAvgPrice": 0.92301,
+  "BuyQuantity": 0.01,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "B"
+}
+[2024-11-08 04:24:04.67] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "AUDCAD.std",
+      "OrderId": 14431721,
+      "OpenPrice": 0.92301,
+      "Volume": 1,
+      "Profit": 0.05,
+      "Comment": "DCA #J5IU0617 IN"
+    }
+  ]
+}
+[2024-11-08 04:24:04.67] INFO: EURGBP.std Cycle (Status: Active): {
+  "MemberId": "15803",
+  "Login": 369075284,
+  "Symbol": "EURGBP.std",
+  "TCycleId": "10139198",
+  "TConfigId": "10005088",
+  "DateEntry": "2024-11-07T21:06:59.413Z",
+  "DateClose": null,
+  "BuyEntryPrice": 0.83125,
+  "BuyAvgPrice": 0.83147851,
+  "BuyQuantity": 0.07,
+  "SellAvgPrice": null,
+  "SellQuantity": null,
+  "SellEarning": null,
+  "Status": "A",
+  "Side": "S"
+}
+[2024-11-08 04:24:05.94] INFO: {
+  "login": 369075284,
+  "trades": [
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14425548,
+      "OpenPrice": 0.83125,
+      "Volume": 1,
+      "Profit": -0.63,
+      "Comment": "DCA #6540VJ1V IN"
+    },
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14425581,
+      "OpenPrice": 0.83181,
+      "Volume": 2,
+      "Profit": 0.21,
+      "Comment": "DCA #6540VJ1V CD 1"
+    },
+    {
+      "Symbol": "EURGBP.std",
+      "OrderId": 14431211,
+      "OpenPrice": 0.83137,
+      "Volume": 4,
+      "Profit": -1.87,
+      "Comment": "DCA #6540VJ1V CD 2"
+    }
+  ]
+}
+[2024-11-08 04:24:29.22] INFO: Shutting Down: Closing database connection...
+[2024-11-08 04:24:29.22] INFO: Waiting for 5 ongoing operations to complete...
+[2024-11-08 04:24:29.72] INFO: All database operations completed.

@@ -1,0 +1,505 @@
+[2024-11-06 04:41:44.52] ERROR: Database error at Fetching User Account from Trade API: TypeError: pool.request is not a function
+[2024-11-06 04:41:45.32] ERROR: Database error at Executing Symbol Price Update for GBPJPY.std (ID: 100100029): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.33] ERROR: Database error at Executing Symbol Price Update for GBPUSD.std (ID: 100100004): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.33] ERROR: Database error at Executing Symbol Price Update for AUDCHF.std (ID: 100100011): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.33] ERROR: Database error at Executing Symbol Price Update for EURSEK.std (ID: 100100024): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.33] ERROR: Database error at Executing Symbol Price Update for USDCNH.std (ID: 100100035): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.33] ERROR: Database error at Executing Symbol Price Update for SOLUSD.std (ID: 100100137): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.33] ERROR: Database error at Executing Symbol Price Update for EURNZD.std (ID: 100100023): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.51] ERROR: Database error at Executing Symbol Price Update for CADCHF.std (ID: 100100014): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.51] ERROR: Database error at Executing Symbol Price Update for GBPCAD.std (ID: 100100027): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.51] ERROR: Database error at Executing Symbol Price Update for EURUSD.std (ID: 100100003): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.51] ERROR: Database error at Executing Symbol Price Update for EURAUD.std (ID: 100100017): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.52] ERROR: Database error at Executing Symbol Price Update for USDSEK.std (ID: 100100039): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.52] ERROR: Database error at Executing Symbol Price Update for XAUUSD.std (ID: 100100001): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.52] ERROR: Database error at Executing Symbol Price Update for EURNOK.std (ID: 100100021): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.52] ERROR: Database error at Executing Symbol Price Update for ETHUSD.std (ID: 100100057): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.52] ERROR: Database error at Executing Symbol Price Update for HKCHKD.std (ID: 100100051): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.52] ERROR: Database error at Executing Symbol Price Update for NZDCAD.std (ID: 100100032): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.52] ERROR: Database error at Executing Symbol Price Update for USDCHF.std (ID: 100100008): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.52] ERROR: Database error at Executing Symbol Price Update for BTCUSD.std (ID: 100100056): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.52] ERROR: Database error at Executing Symbol Price Update for GBPNZD.std (ID: 100100030): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.53] ERROR: Database error at Executing Symbol Price Update for AUDUSD.std (ID: 100100005): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.56] ERROR: Database error at Executing Symbol Price Update for NZDUSD.std (ID: 100100006): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.70] ERROR: Database error at Executing Symbol Price Update for AUDJPY.std (ID: 100100012): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.70] ERROR: Database error at Executing Symbol Price Update for UKOIL.std (ID: 100100044): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.70] ERROR: Database error at Executing Symbol Price Update for EURJPY.std (ID: 100100022): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.70] ERROR: Database error at Executing Symbol Price Update for EURTRY.std (ID: 100100025): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.70] ERROR: Database error at Executing Symbol Price Update for USDSGD.std (ID: 100100040): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.70] ERROR: Database error at Executing Symbol Price Update for USDCAD.std (ID: 100100007): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.70] ERROR: Database error at Executing Symbol Price Update for NZDCHF.std (ID: 100100033): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.70] ERROR: Database error at Executing Symbol Price Update for NOKSEK.std (ID: 100100031): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.71] ERROR: Database error at Executing Symbol Price Update for USDNOK.std (ID: 100100038): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.72] ERROR: Database error at Executing Symbol Price Update for USDJPY.std (ID: 100100009): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.72] ERROR: Database error at Executing Symbol Price Update for USDZAR.std (ID: 100100042): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.72] ERROR: Database error at Executing Symbol Price Update for CHFJPY.std (ID: 100100016): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.72] ERROR: Database error at Executing Symbol Price Update for GBPCHF.std (ID: 100100028): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.72] ERROR: Database error at Executing Symbol Price Update for EURCAD.std (ID: 100100018): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.72] ERROR: Database error at Executing Symbol Price Update for AUDNZD.std (ID: 100100013): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.72] ERROR: Database error at Executing Symbol Price Update for AUDCAD.std (ID: 100100010): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.72] ERROR: Database error at Executing Symbol Price Update for LTCUSD.std (ID: 100100058): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.72] ERROR: Database error at Executing Symbol Price Update for NZDJPY.std (ID: 100100034): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.72] ERROR: Database error at Executing Symbol Price Update for GBPAUD.std (ID: 100100026): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.73] ERROR: Database error at Executing Symbol Price Update for USDMXN.std (ID: 100100037): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.73] ERROR: Database error at Executing Symbol Price Update for DJCUSD.std (ID: 100100047): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.73] ERROR: Database error at Executing Symbol Price Update for EURCHF.std (ID: 100100019): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.73] ERROR: Database error at Executing Symbol Price Update for EURGBP.std (ID: 100100020): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.73] ERROR: Database error at Executing Symbol Price Update for GBPJPY.std (ID: 100100029): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.73] ERROR: Database error at Executing Symbol Price Update for GBPUSD.std (ID: 100100004): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.73] ERROR: Database error at Executing Symbol Price Update for DASHUSD.std (ID: 100100059): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.73] ERROR: Database error at Executing Symbol Price Update for EURSEK.std (ID: 100100024): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.73] ERROR: Database error at Executing Symbol Price Update for USDCNH.std (ID: 100100035): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.73] ERROR: Database error at Executing Symbol Price Update for AUDCHF.std (ID: 100100011): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.73] ERROR: Database error at Executing Symbol Price Update for EURNZD.std (ID: 100100023): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.88] ERROR: Database error at Executing Symbol Price Update for CADJPY.std (ID: 100100015): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.89] ERROR: Database error at Executing Symbol Price Update for CADCHF.std (ID: 100100014): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.89] ERROR: Database error at Executing Symbol Price Update for GBPCAD.std (ID: 100100027): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.89] ERROR: Database error at Executing Symbol Price Update for EURUSD.std (ID: 100100003): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.89] ERROR: Database error at Executing Symbol Price Update for EURAUD.std (ID: 100100017): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.89] ERROR: Database error at Executing Symbol Price Update for EURNOK.std (ID: 100100021): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.89] ERROR: Database error at Executing Symbol Price Update for XAUUSD.std (ID: 100100001): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.89] ERROR: Database error at Executing Symbol Price Update for USDSEK.std (ID: 100100039): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.89] ERROR: Database error at Executing Symbol Price Update for NZDCAD.std (ID: 100100032): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.89] ERROR: Database error at Executing Symbol Price Update for USDCHF.std (ID: 100100008): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.89] ERROR: Database error at Executing Symbol Price Update for BTCUSD.std (ID: 100100056): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.90] ERROR: Database error at Executing Symbol Price Update for ETHUSD.std (ID: 100100057): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.90] ERROR: Database error at Executing Symbol Price Update for GBPNZD.std (ID: 100100030): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.90] ERROR: Database error at Executing Symbol Price Update for AUDUSD.std (ID: 100100005): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.90] ERROR: Database error at Executing Symbol Price Update for NZDUSD.std (ID: 100100006): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.90] ERROR: Database error at Executing Symbol Price Update for AUDJPY.std (ID: 100100012): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.90] ERROR: Database error at Executing Symbol Price Update for JPCJPY.std (ID: 100100052): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.90] ERROR: Database error at Executing Symbol Price Update for EURJPY.std (ID: 100100022): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.90] ERROR: Database error at Executing Symbol Price Update for AXCAUD.std (ID: 100100045): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.90] ERROR: Database error at Executing Symbol Price Update for CHCUSD.std (ID: 100100046): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.90] ERROR: Database error at Executing Symbol Price Update for XAGUSD.std (ID: 100100002): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.90] ERROR: Database error at Executing Symbol Price Update for USDSGD.std (ID: 100100040): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.90] ERROR: Database error at Executing Symbol Price Update for NOKSEK.std (ID: 100100031): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.90] ERROR: Database error at Executing Symbol Price Update for NZDCHF.std (ID: 100100033): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.90] ERROR: Database error at Executing Symbol Price Update for USDNOK.std (ID: 100100038): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.90] ERROR: Database error at Executing Symbol Price Update for USDJPY.std (ID: 100100009): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.91] ERROR: Database error at Executing Symbol Price Update for USDZAR.std (ID: 100100042): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.91] ERROR: Database error at Executing Symbol Price Update for CHFJPY.std (ID: 100100016): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.91] ERROR: Database error at Executing Symbol Price Update for AUDNZD.std (ID: 100100013): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.91] ERROR: Database error at Executing Symbol Price Update for EURCAD.std (ID: 100100018): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.96] ERROR: Database error at Executing Symbol Price Update for NZDJPY.std (ID: 100100034): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.96] ERROR: Database error at Executing Symbol Price Update for GBPAUD.std (ID: 100100026): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.96] ERROR: Database error at Executing Symbol Price Update for LTCUSD.std (ID: 100100058): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.96] ERROR: Database error at Executing Symbol Price Update for EURTRY.std (ID: 100100025): TypeError: pool.request is not a function
+[2024-11-06 04:41:45.96] ERROR: Database error at Executing Symbol Price Update for GBPJPY.std (ID: 100100029): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.00] ERROR: Database error at Executing Symbol Price Update for GBPUSD.std (ID: 100100004): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.00] ERROR: Database error at Executing Symbol Price Update for EURCHF.std (ID: 100100019): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.06] ERROR: Database error at Executing Symbol Price Update for EURSEK.std (ID: 100100024): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.06] ERROR: Database error at Executing Symbol Price Update for USDCNH.std (ID: 100100035): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.06] ERROR: Database error at Executing Symbol Price Update for AUDCHF.std (ID: 100100011): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.47] ERROR: Database error at Executing Symbol Price Update for CADJPY.std (ID: 100100015): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.47] ERROR: Database error at Executing Symbol Price Update for EURNZD.std (ID: 100100023): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.48] ERROR: Database error at Executing Symbol Price Update for GBPCAD.std (ID: 100100027): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.48] ERROR: Database error at Executing Symbol Price Update for EURAUD.std (ID: 100100017): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.48] ERROR: Database error at Executing Symbol Price Update for EURNOK.std (ID: 100100021): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.48] ERROR: Database error at Executing Symbol Price Update for DJCUSD.std (ID: 100100047): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.48] ERROR: Database error at Executing Symbol Price Update for EURUSD.std (ID: 100100003): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.48] ERROR: Database error at Executing Symbol Price Update for USDSEK.std (ID: 100100039): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.48] ERROR: Database error at Executing Symbol Price Update for USDCHF.std (ID: 100100008): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.48] ERROR: Database error at Executing Symbol Price Update for NZDCAD.std (ID: 100100032): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.48] ERROR: Database error at Executing Symbol Price Update for GBPNZD.std (ID: 100100030): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.49] ERROR: Database error at Executing Symbol Price Update for AUDUSD.std (ID: 100100005): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.49] ERROR: Database error at Executing Symbol Price Update for NZDUSD.std (ID: 100100006): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.49] ERROR: Database error at Executing Symbol Price Update for AUDJPY.std (ID: 100100012): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.49] ERROR: Database error at Executing Symbol Price Update for EURJPY.std (ID: 100100022): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.49] ERROR: Database error at Executing Symbol Price Update for CADCHF.std (ID: 100100014): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.49] ERROR: Database error at Executing Symbol Price Update for XAUUSD.std (ID: 100100001): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.49] ERROR: Database error at Executing Symbol Price Update for USDCAD.std (ID: 100100007): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.49] ERROR: Database error at Executing Symbol Price Update for USDSGD.std (ID: 100100040): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.49] ERROR: Database error at Executing Symbol Price Update for NOKSEK.std (ID: 100100031): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.49] ERROR: Database error at Executing Symbol Price Update for USDNOK.std (ID: 100100038): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.49] ERROR: Database error at Executing Symbol Price Update for USDJPY.std (ID: 100100009): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.49] ERROR: Database error at Executing Symbol Price Update for USDZAR.std (ID: 100100042): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.49] ERROR: Database error at Executing Symbol Price Update for GBPCHF.std (ID: 100100028): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.49] ERROR: Database error at Executing Symbol Price Update for CHFJPY.std (ID: 100100016): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.50] ERROR: Database error at Executing Symbol Price Update for EURCAD.std (ID: 100100018): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.50] ERROR: Database error at Executing Symbol Price Update for AUDNZD.std (ID: 100100013): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.53] ERROR: Database error at Executing Symbol Price Update for AUDCAD.std (ID: 100100010): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.53] ERROR: Database error at Executing Symbol Price Update for GBPAUD.std (ID: 100100026): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.54] ERROR: Database error at Executing Symbol Price Update for BTCUSD.std (ID: 100100056): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.54] ERROR: Database error at Executing Symbol Price Update for EURGBP.std (ID: 100100020): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.54] ERROR: Database error at Executing Symbol Price Update for EURTRY.std (ID: 100100025): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.54] ERROR: Database error at Executing Symbol Price Update for GBPJPY.std (ID: 100100029): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.54] ERROR: Database error at Executing Symbol Price Update for EURCHF.std (ID: 100100019): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.58] ERROR: Database error at Executing Symbol Price Update for EURSEK.std (ID: 100100024): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.58] ERROR: Database error at Executing Symbol Price Update for GBPUSD.std (ID: 100100004): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.58] ERROR: Database error at Executing Symbol Price Update for USDCNH.std (ID: 100100035): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.58] ERROR: Database error at Executing Symbol Price Update for AUDCHF.std (ID: 100100011): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.58] ERROR: Database error at Executing Symbol Price Update for EURAUD.std (ID: 100100017): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.58] ERROR: Database error at Executing Symbol Price Update for EURUSD.std (ID: 100100003): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.63] ERROR: Database error at Executing Symbol Price Update for CADJPY.std (ID: 100100015): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.63] ERROR: Database error at Executing Symbol Price Update for EURNZD.std (ID: 100100023): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.63] ERROR: Database error at Executing Symbol Price Update for GBPCAD.std (ID: 100100027): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.64] ERROR: Database error at Executing Symbol Price Update for EURNOK.std (ID: 100100021): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.64] ERROR: Database error at Executing Symbol Price Update for UKOIL.std (ID: 100100044): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.64] ERROR: Database error at Executing Symbol Price Update for USDTHB.std (ID: 100100134): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.64] ERROR: Database error at Executing Symbol Price Update for USDCHF.std (ID: 100100008): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.64] ERROR: Database error at Executing Symbol Price Update for USDSEK.std (ID: 100100039): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.64] ERROR: Database error at Executing Symbol Price Update for USDMXN.std (ID: 100100037): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.68] ERROR: Database error at Executing Symbol Price Update for NZDCAD.std (ID: 100100032): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.69] ERROR: Database error at Executing Symbol Price Update for GBPNZD.std (ID: 100100030): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.69] ERROR: Database error at Executing Symbol Price Update for AUDUSD.std (ID: 100100005): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.69] ERROR: Database error at Executing Symbol Price Update for XAGUSD.std (ID: 100100002): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.69] ERROR: Database error at Executing Symbol Price Update for NZDUSD.std (ID: 100100006): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.69] ERROR: Database error at Executing Symbol Price Update for AUDJPY.std (ID: 100100012): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.69] ERROR: Database error at Executing Symbol Price Update for SPCUSD.std (ID: 100100054): TypeError: pool.request is not a function
+[2024-11-06 04:41:46.74] ERROR: Database error at Executing Symbol Price Update for EURJPY.std (ID: 100100022): TypeError: pool.request is not a function
+[2024-11-06 07:29:00.45] ERROR: Unexpected trade response for Login ID 223858: {"ResponseCode":6,"Order":0}
+[2024-11-06 07:29:00.54] ERROR: Member #16703 OPEN FAIL Exchange Status: Fail to Open Trade for AUDJPY.std, DCA #81C0GM13 CD 3
+[2024-11-06 07:29:00.54] ERROR: Symbol: AUDJPY.std Order Side: B Volume: 8 Price: 100.6885 Comment: DCA #81C0GM13 CD 3
+[2024-11-06 10:44:35.96] ERROR: Validation failed for API key '369101780' after 3 attempts: Request failed with status code 404
+[2024-11-06 10:45:32.99] ERROR: Validation failed for API key '369101780' after 3 attempts: Request failed with status code 404
+[2024-11-06 10:46:30.26] ERROR: Validation failed for API key '369101780' after 3 attempts: Request failed with status code 404
+[2024-11-06 10:47:27.77] ERROR: Validation failed for API key '369101780' after 3 attempts: Request failed with status code 404
+[2024-11-06 10:48:25.66] ERROR: Validation failed for API key '369101780' after 3 attempts: Request failed with status code 404
+[2024-11-06 10:49:22.08] ERROR: Validation failed for API key '369101780' after 3 attempts: Request failed with status code 404
+[2024-11-06 10:50:20.14] ERROR: Validation failed for API key '369101780' after 3 attempts: Request failed with status code 404
+[2024-11-06 10:51:16.75] ERROR: Validation failed for API key '369101780' after 3 attempts: Request failed with status code 404
+[2024-11-06 10:52:14.69] ERROR: Validation failed for API key '369101780' after 3 attempts: Request failed with status code 404
+[2024-11-06 10:53:11.98] ERROR: Validation failed for API key '369101780' after 3 attempts: Request failed with status code 404
+[2024-11-06 10:54:09.57] ERROR: Validation failed for API key '369101780' after 3 attempts: Request failed with status code 404
+[2024-11-06 10:55:06.05] ERROR: Validation failed for API key '369101780' after 3 attempts: Request failed with status code 404
+[2024-11-06 10:56:05.67] ERROR: Validation failed for API key '369101780' after 3 attempts: Request failed with status code 404
+[2024-11-06 10:56:42.63] ERROR: Validation failed for API key '369101780' after 3 attempts: Request failed with status code 404
+[2024-11-06 11:04:06.33] ERROR: Validation failed for API key '555247' after 3 attempts: Request failed with status code 404
+[2024-11-06 12:21:07.31] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:21:07.41] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:21:20.04] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:21:20.15] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:21:28.83] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:21:28.90] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:22:30.11] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:22:30.19] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:22:31.62] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:22:31.70] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:22:32.68] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:22:32.76] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:23:01.74] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:23:01.82] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:23:11.05] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:23:11.12] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:23:14.85] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:23:14.93] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:23:36.52] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:23:36.61] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:23:59.24] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:23:59.31] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:23:59.71] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:23:59.79] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:24:05.58] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:24:05.67] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:24:20.14] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:24:20.22] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:24:21.18] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:24:21.25] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:24:24.31] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:24:24.39] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:24:24.78] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:24:24.85] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:24:26.58] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:24:26.66] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:24:40.10] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:24:40.18] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:24:48.08] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:24:48.18] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:24:54.40] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:24:54.50] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:24:54.90] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:24:54.100] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:25:28.25] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:25:28.35] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:25:31.33] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:25:31.41] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:25:45.87] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:25:45.95] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:25:49.66] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:25:49.74] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:26:24.87] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:26:24.95] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:26:25.23] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:26:25.31] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:26:44.10] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:26:44.18] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:27:06.48] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:27:06.55] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:27:17.47] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:27:17.55] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:27:19.07] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:27:19.14] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:27:28.07] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:27:28.15] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:28:02.90] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:28:02.97] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:28:06.79] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:28:06.87] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:28:16.92] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:28:16.100] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:28:33.89] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:28:33.96] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:28:37.05] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:28:37.15] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:28:37.61] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:28:37.69] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:28:41.61] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:28:41.68] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:28:46.79] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:28:46.89] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:28:49.06] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:28:49.15] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:28:51.17] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:28:51.26] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:29:02.90] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:29:02.99] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:29:09.50] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:29:09.60] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:30:14.20] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:30:14.28] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:30:52.36] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:30:52.44] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:30:54.10] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:30:54.18] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:30:55.79] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:30:55.87] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:31:43.91] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:31:44.00] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:31:48.39] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:31:48.47] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:32:20.81] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:32:20.89] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:33:09.77] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:33:09.91] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:33:32.56] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:33:32.64] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:33:35.11] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:33:35.18] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:33:38.23] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:33:38.31] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:33:40.40] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:33:40.47] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:33:40.69] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:33:40.78] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:33:41.69] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:33:41.78] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:34:08.36] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:34:08.43] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:34:20.31] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:34:20.38] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:34:28.27] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:34:28.34] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:34:37.59] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:34:37.68] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:34:41.85] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:34:41.93] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:34:46.37] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:34:46.44] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:34:47.25] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:34:47.33] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:34:51.52] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:34:51.61] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:35:00.61] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:35:00.69] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:35:03.27] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:35:03.35] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:35:07.58] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:35:07.66] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:35:09.95] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:35:10.03] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:35:33.89] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:35:33.98] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:35:37.86] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:35:37.94] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:35:42.89] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:35:42.97] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:35:50.70] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:35:50.78] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:35:55.94] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:35:56.04] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:35:56.91] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:35:56.99] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:36:02.53] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:36:02.64] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:36:07.79] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:36:07.89] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:36:15.63] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:36:15.71] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:36:21.95] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:36:22.02] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:36:23.95] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:36:24.04] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:36:36.78] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:36:36.87] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:36:39.10] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:36:39.19] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:36:43.15] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:36:43.22] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:36:48.36] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:36:48.46] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:36:49.37] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:36:49.46] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:36:49.86] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:36:49.95] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:36:52.41] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:36:52.48] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:37:09.01] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:37:09.09] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:37:14.42] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:37:14.49] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:37:16.07] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:37:16.14] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:37:46.51] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:37:46.59] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:37:49.55] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:37:49.63] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:37:50.55] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:37:50.63] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:38:11.77] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:38:11.86] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:38:16.89] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:38:16.99] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:38:39.01] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:38:39.10] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:38:43.35] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:38:43.46] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:38:54.49] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:38:54.58] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:38:58.64] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:38:58.72] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:39:07.99] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:39:08.07] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:39:09.63] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:39:09.71] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:39:22.25] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:39:22.35] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:39:25.72] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:39:25.79] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:39:33.83] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:39:33.92] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:39:34.72] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:39:34.81] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:39:50.15] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:39:50.22] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:39:53.74] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:39:53.83] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:40:27.06] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:40:27.23] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:40:27.51] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:40:27.60] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:40:38.11] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:40:38.19] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:40:49.44] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:40:49.52] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:40:49.94] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:40:50.01] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:40:52.69] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:40:52.76] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:40:55.31] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:40:55.44] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:40:56.85] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:40:56.92] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:41:22.48] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:41:22.58] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:41:24.02] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:41:24.12] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:41:27.76] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:41:27.85] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:41:29.24] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:41:29.32] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:41:30.31] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:41:30.39] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:41:32.86] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:41:32.94] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:41:34.48] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:41:34.56] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:41:35.17] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:41:35.29] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:41:40.52] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:41:40.62] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:41:45.63] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:41:45.72] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:41:46.72] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:41:46.81] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:41:52.44] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:41:52.52] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:41:56.15] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:41:56.23] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:41:56.69] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:41:56.77] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:41:58.82] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:41:58.91] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:42:00.39] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:42:00.48] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:42:09.44] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:42:09.53] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:42:14.53] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:42:14.61] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:42:22.93] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:42:23.01] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:42:24.20] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:42:24.30] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:42:36.56] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:42:36.64] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:42:41.84] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:42:41.92] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:42:50.36] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:42:50.45] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:42:50.83] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:42:50.90] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:42:51.89] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:42:51.97] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:43:07.23] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:43:07.31] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:43:08.30] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:43:08.38] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:43:09.86] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:43:09.95] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:43:10.86] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:43:10.95] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:43:12.42] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:43:12.50] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:43:19.01] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:43:19.09] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:43:20.29] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:43:20.36] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:43:20.82] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:43:20.92] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:43:26.04] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:43:26.14] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:43:26.57] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:43:26.65] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:43:29.25] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:43:29.33] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:43:31.92] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:43:31.99] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:44:33.44] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:44:33.53] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:44:43.84] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:44:43.95] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:44:49.25] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:44:49.33] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:45:02.05] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:45:02.16] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 12:45:23.31] ERROR: Error in 'Order Close for LoginId 369075284 - Open Hedge' for Login ID: 369075284, Symbol: EURGBP.std: getServerForApiKey is not defined
+[2024-11-06 12:45:23.40] ERROR: Position Close Error: getServerForApiKey is not defined
+[2024-11-06 22:33:22.70] ERROR: Validation failed for API key '369084316' after 3 attempts: API Key '369084316' not found.
+[2024-11-06 22:33:42.72] ERROR: Failed 'Get User Data for Member ID 16703' after 3 attempts. Error: Request failed with status code 500
+[2024-11-06 22:33:42.72] ERROR: Error getting user account balance for Member ID 16703: Request failed with status code 500
+[2024-11-06 22:33:42.72] ERROR: Failed 'Get User Data for Member ID 15803' after 3 attempts. Error: Request failed with status code 500
+[2024-11-06 22:33:42.72] ERROR: Error getting user account balance for Member ID 15803: Request failed with status code 500
+[2024-11-06 22:33:42.72] ERROR: Failed 'Get User Data for Member ID 17703' after 3 attempts. Error: Request failed with status code 500
+[2024-11-06 22:33:42.72] ERROR: Error getting user account balance for Member ID 17703: Request failed with status code 500
+[2024-11-06 22:33:42.72] ERROR: Failed 'Get User Data for Member ID 16603' after 3 attempts. Error: Request failed with status code 500
+[2024-11-06 22:33:42.72] ERROR: Error getting user account balance for Member ID 16603: Request failed with status code 500
+[2024-11-07 02:36:01.89] ERROR: Validation failed for API key 'Boon Ping Ooi' after 3 attempts: API Key 'Boon Ping Ooi' not found.
+[2024-11-07 02:37:07.73] ERROR: Validation failed for API key 'Ooi Boon Ping' after 3 attempts: API Key 'Ooi Boon Ping' not found.
+[2024-11-07 02:38:48.02] ERROR: Validation failed for API key 'Boon Ping Ooi' after 3 attempts: API Key 'Boon Ping Ooi' not found.
+[2024-11-07 02:47:39.08] ERROR: Validation failed for API key '98670_AI001' after 3 attempts: API Key '98670_AI001' not found.
+[2024-11-07 02:59:47.68] ERROR: API Key '98670_AI001' is invalid.
+[2024-11-07 03:08:02.04] ERROR: API Key '98670_AI001' is invalid.
+[2024-11-07 03:25:53.88] ERROR: API Key '98670_AI001' is invalid.
+[2024-11-07 04:06:12.12] ERROR: Database error at Fetching Trade Cycle Data: TypeError: Cannot read properties of undefined (reading 'request')
+[2024-11-07 04:07:38.29] ERROR: Database error at Fetching Trade Cycle Data: TypeError: Cannot read properties of undefined (reading 'request')
+[2024-11-07 04:17:57.43] ERROR: Database error at Executing Trade Income for Order 14420880 Maintenance: RequestError: Validation failed for parameter 'OrderId'. Invalid string.
